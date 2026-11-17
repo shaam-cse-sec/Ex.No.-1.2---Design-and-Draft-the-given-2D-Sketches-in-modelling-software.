@@ -1,5 +1,6 @@
 # Ex.No.-1.2-Design and Draft the given 2D Sketches in modelling software.
-
+# Name : Shaam R
+# reg.no : 26009758
 ## AIM
  To sketch the given drawing with dimensions using fusion 360 tool.
  
@@ -36,7 +37,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- 
+ <img width="1455" height="1081" alt="Ex 1 2 Shaam R" src="https://github.com/user-attachments/assets/779e92f5-3e58-45ca-9de3-e1033dbe4c23" />
+
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
